@@ -17,8 +17,9 @@
 - 🚀 Always exploring **new technologies**
 - 💡 Love building projects and experimenting with ideas
 
-<br clear="both">
 ### 🌐 Connect with Me
+<br clear="both">
+
 <div align="center">
   <a href="linkedin.com/in/suryansh-sinha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
