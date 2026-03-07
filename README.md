@@ -84,7 +84,7 @@
 
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1a2e,100:16213e"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4facfe,100:00f2fe&animation=twinkling"/>
 </div>
 
 
