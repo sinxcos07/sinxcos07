@@ -8,10 +8,17 @@
 
 <h1 align="center">Suryansh Sinha</h1>
 
-###
+### 🧠 About Me
+
+- 🎮 I build **games using Unity and Unreal Engine**
+- 🐍 Passionate about **Python development and automation**
+- 🌐 Interested in **Full Stack Development**
+- 📊 Working with **SQL and data tools**
+- 🚀 Always exploring **new technologies**
+- 💡 Love building projects and experimenting with ideas
 
 <br clear="both">
-
+### 🌐 Connect with Me
 <div align="center">
   <a href="linkedin.com/in/suryansh-sinha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -25,7 +32,7 @@
 </div>
 
 ###
-
+### ⚙️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
