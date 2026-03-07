@@ -1,86 +1,87 @@
-<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhvNWNnemt6MWdtZ25qaWI4Y2R0OW1ncmlhdTh1cjh0am45ZG8zdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc10GA6j4XrLWzZK/giphy.gif"/>
-
-<h1 align="center">Suryansh Sinha</h1>
-
-<h3 align="center">
-🎮 Game Developer • 🐍 Python Developer • 🌐 Full Stack Developer  
-📊 SQL & Data Enthusiast • 🚀 Tech Enthusiast
-</h3>
-
 <br clear="both">
 
----
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhvNWNnemt6MWdtZ25qaWI4Y2R0OW1ncmlhdTh1cjh0am45ZG8zdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc10GA6j4XrLWzZK/giphy.gif"  />
 
-### 🌐 Connect with Me
+###
 
-<div align="center">
+<p align="center">Suryansh Sinha</p>
 
-<a href="https://linkedin.com/in/suryansh-sinha" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-
-<a href="https://dev.to/sinxcos07" target="_blank">
-<img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-
-<a href="mailto:suryanshsinha90@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-
-</div>
-
----
-
-### 🧠 About Me
-
-- 🎮 I build **games using Unity and Unreal Engine**
-- 🐍 Passionate about **Python development and automation**
-- 🌐 Interested in **Full Stack Development**
-- 📊 Working with **SQL and data tools**
-- 🚀 Always exploring **new technologies**
-- 💡 Love building projects and experimenting with ideas
-
----
-
-### ⚙️ Tech Stack
+###
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,js,java,html,git,github,mysql,figma,anaconda,cpp,cs" height="60"/>
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60"/>
-
+  <a href="linkedin.com/in/suryansh-sinha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/sinxcos07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="suryanshsinha90@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
-
-### 📈 GitHub Activity
+###
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinxcos07&radius=16&theme=dracula&area=true&order=5" height="300"/>
-
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="60" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="60" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
 </div>
 
----
-
-### 🚀 Current Focus
-
-- 🎮 Building **game development projects**
-- 🐍 Improving **Python and backend skills**
-- 🌐 Exploring **modern full stack technologies**
-- 🤖 Learning more about **AI, automation, and data tools**
-
----
+###
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinxcos07&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinxcos07/sinxcos07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinxcos07/sinxcos07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sinxcos07/sinxcos07/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
