@@ -3,9 +3,6 @@
 
 <h1 align="center">Suryansh Sinha</h1>
 <br clear="both">
-<br clear="both">
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhvNWNnemt6MWdtZ25qaWI4Y2R0OW1ncmlhdTh1cjh0am45ZG8zdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc10GA6j4XrLWzZK/giphy.gif"  />
-
 ### 🧠 About Me
 
 - 🎮 I build **games using Unity and Unreal Engine**
@@ -14,6 +11,10 @@
 - 📊 Working with **SQL and data tools**
 - 🚀 Always exploring **new technologies**
 - 💡 Love building projects and experimenting with ideas
+<br clear="both">
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhvNWNnemt6MWdtZ25qaWI4Y2R0OW1ncmlhdTh1cjh0am45ZG8zdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc10GA6j4XrLWzZK/giphy.gif"  />
+
+
 
 ### 🌐 Connect with Me
 <br clear="both">
