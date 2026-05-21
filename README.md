@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Suryansh Sinha</h1>
+<h1 align="center">Suryansh Sinha (sinxcos07)</h1>
 <br clear="both">
 
 
