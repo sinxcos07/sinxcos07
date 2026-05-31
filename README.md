@@ -83,15 +83,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinxcos07/sinxcos07/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sinxcos07/sinxcos07/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
-
-
-
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4facfe,100:00f2fe&animation=twinkling"/>
 </div>
+
+## 🚀 Projects
+
+- [AstroFit](https://astrofit-fitness.vercel.app/)
+- [Hidden Collector](https://sinxcos07.itch.io/hiddencollector)
+
+## 📝 Articles & Blogs
+
+- [Building AstroFit – My Fitness Tracking Web Application](https://dev.to/sinxcos07/astrofit-my-fitness-tracking-web-application-hfb)
+- [How I Built Hidden Collector in Unity](https://dev.to/sinxcos07/how-i-built-hidden-collector-in-unity-541g)
 
 
 
