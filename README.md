@@ -36,6 +36,10 @@
 </div>
 
 ###
+### 📂 Portfolio
+- [My Portfolio](https://suryanshsinhaportfolio.vercel.app/)
+
+###
 ### ⚙️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
